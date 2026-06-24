@@ -23,10 +23,9 @@ Dans cette application, je peux :
 
 ## 🛠️ Technologies utilisées
 
-* React.ts
-* JavaScript (ES6+)
-* HTML5
-* 
+* React.tsx
+* Biblio comme lucide, Tailwind Css, Daisy UI
+
 
 ---
 
